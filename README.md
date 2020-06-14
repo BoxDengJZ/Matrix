@@ -16,4 +16,10 @@ Matrix Common Tips
 [快速掌握一个语言最常用的50%](https://blog.csdn.net/myan/article/details/3144661)
 
 
+<hr>
 
+
+# fate
+
+
+[AsyncDisplayKit](https://www.youtube.com/watch?v=0bOdPUvSzG0)
